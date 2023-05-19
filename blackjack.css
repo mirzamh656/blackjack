@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(to right, rgb(28, 163, 28), rgb(2, 75, 2));
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#naslov{
+    text-align: center;
+    color: rgb(233, 190, 0);
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+#p1 {
+    color: white;
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.dugme {
+    color: #016f32;
+    background-color: goldenrod;
+    width: 170px;
+    padding: 20px;
+    font-weight: 800;
+    font-size: 15px;
+    box-shadow: goldenrod 5px 5px 20px;
+    border-radius: 15px;
+}
